@@ -1,0 +1,17 @@
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Stubhub.ClientLibrary.deps.json
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Stubhub.ClientLibrary.dll
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Stubhub.ClientLibrary.pdb
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.AssemblyInfo.cs
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.dll
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.pdb
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.csprojAssemblyReference.cache
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\obj\Debug\netcoreapp2.1\Stubhub.ClientLibrary.csproj.CopyComplete
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Modsi.QueryAttribute.dll
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Modsi.QueryAttribute.pdb
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Stubhub.ClientLibrary.runtimeconfig.json
+C:\Users\Blake\Desktop\Modsi\Bentley Entertainment\StubhubAlerts\Stubhub.ClientLibrary\bin\Debug\netcoreapp2.1\Stubhub.ClientLibrary.runtimeconfig.dev.json
